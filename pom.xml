@@ -56,7 +56,7 @@
 	<properties>
 		<main.basedir>${project.basedir}</main.basedir>
         <commons-lang3-version>3.7</commons-lang3-version>
-		<dubbo-version>2.7.0</dubbo-version>
+		<dubbo-version>2.7.1</dubbo-version>
 		<curator-version>2.12.0</curator-version>
 		<curator-test-version>4.1.0</curator-test-version>
 		<fastjson-version>1.2.46</fastjson-version>
@@ -70,8 +70,8 @@
 		<spring-boot-version>2.0.2.RELEASE</spring-boot-version>
 		<spring-data-commons-version>2.0.7.RELEASE</spring-data-commons-version>
 		<maven_compiler_version>3.6.2</maven_compiler_version>
-		<java_source_version>1.8</java_source_version>
-		<java_target_version>1.8</java_target_version>
+		<java_source_version>11</java_source_version>
+		<java_target_version>11</java_target_version>
 		<file_encoding>UTF-8</file_encoding>
 		<checkstyle.skip>true</checkstyle.skip>
 		<rat.skip>true</rat.skip>
